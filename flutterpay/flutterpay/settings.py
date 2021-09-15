@@ -121,3 +121,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
+
+RAVE_PUBLIC_KEY = "FLWPUBK_TEST-a1d28400c7a5fc55a5be7ef702eea4dd-X"
+RAVE_PRIVATE_KEY = "FLWSECK_TEST-e048caac2551f02041b1a631d306defa-X"
